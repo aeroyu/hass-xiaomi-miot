@@ -906,6 +906,9 @@ DEVICE_CUSTOMIZES = {
         'sensor_properties': 'water_velocity',
         'switch_properties': 'water_heater.on,preheating,cruise_press',
     },
+    'novo.curtain.n21': {
+        'select_properties': 'target_position',
+    },
 
 }
 
