@@ -459,9 +459,6 @@ DEVICE_CUSTOMIZES = {
         'miio_event_human_visit_details_template': 'mxiang_cateye_human_visit_details',
     },
 
-    'novo.curtain.n21': {
-        'select_properties': 'motor_control',
-    },
 
     'ows.towel_w.mj1x0': {
         'sensor_properties': 'temperature',
